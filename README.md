@@ -22,8 +22,11 @@ structured assessments with traceable supporting evidence.
 
 ## Initial Scope
 **Category:** On-track collision and fault assessment
+
 **Series:** Formula 1
+
 **Historical Period:** 2014-2026
+
 **Initial output:** Research-oriented, source-cited draft assessments
 
 Additional incident categories and capabilities may be considered after the initial module has been evaluated.
